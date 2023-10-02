@@ -37,7 +37,7 @@
         "eslint": "^8.50.0",
         "jsonwebtoken": "^9.0.2",
         "typescript": "^5.2.2",
-        "@types/mocha": "^10.0.1",
+        "@types/mocha": "^10.0.2",
         "@types/assert": "^1.5.7",
         "mocha": "10.2.0",
         "nyc": "^15.1.0",
