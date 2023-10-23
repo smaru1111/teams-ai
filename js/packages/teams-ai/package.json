@@ -38,7 +38,7 @@
         "jsonwebtoken": "^9.0.2",
         "typescript": "^5.2.2",
         "@types/mocha": "^10.0.1",
-        "@types/assert": "^1.5.7",
+        "@types/assert": "^1.5.8",
         "mocha": "10.2.0",
         "nyc": "^15.1.0",
         "shx": "^0.3.4",
